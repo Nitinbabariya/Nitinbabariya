@@ -12,11 +12,7 @@
 🎓 I’m an Open-Source enthusiast & a software engineer working with infrastructure automation, system development using cloud native techstack </br>
 👨‍💻  I am passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things. </br>
 
-### My Experiences 🙌
-![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitinbabariya&show_icons=true&hide_border=true)
-<br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nitinbabariya)
-
 <!--
 **Nitinbabariya/Nitinbabariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
